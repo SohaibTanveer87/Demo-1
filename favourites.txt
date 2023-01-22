@@ -1,3 +1,6 @@
 Apple
 Orange
 Banana
+Your name
+Clanned
+
